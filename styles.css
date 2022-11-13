@@ -1,0 +1,56 @@
+body {
+  background-color: lightgrey;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Logo {
+  background-color: grey;
+  padding: 15px;
+  margin: 5px;
+  text-align: start;
+}
+
+body nav {
+  background-color: grey;
+  padding: 5px 15px;
+  margin: 5px;
+  text-align: center;
+}
+
+body header {
+  background-color: grey;
+  padding: 30px 15px;
+  margin: 5px;
+  text-align: center;
+}
+
+.Main {
+  background-color: lightgray;
+  padding: 0px;
+  margin: 15px 5px;
+}
+
+.Kaire {
+  background-color: grey;
+  display: inline-block;
+  height: 300px;
+  width: 30%;
+  text-align: center;
+  line-height: 300px;
+}
+
+.Desine {
+  background-color: grey;
+  float: right;
+  height: 300px;
+  width: 68%;
+  text-align: center;
+  line-height: 300px;
+}
+
+body footer {
+  background-color: grey;
+  padding: 5px 15px;
+  margin: 5px;
+  text-align: center;
+}
